@@ -24,7 +24,7 @@ Figuring the growth of events with the time series data.
     2. User Research Analysis. 
     
 
-### For next part.
+### Path further.
 
-- It would be interesting to see how an interactive dashboard can be build consolidating the data summaries.
+
 Next up: Reesarch and build out a Dash-plotly and/or Streamlit dashboard. 
